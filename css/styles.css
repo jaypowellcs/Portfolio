@@ -233,6 +233,13 @@ img {
     bottom: 0; 
 }
 
+/* active links*/
+
+.active-link {
+    color: var(--first-color);
+}
+
+
 /* Home */
 
 .home__container {
